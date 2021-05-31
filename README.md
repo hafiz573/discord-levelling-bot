@@ -37,7 +37,3 @@ $ npm run start
 5. Go to your Discord and test your bot.
 
 ## Thanks to these wonderful people
-### 🌟 Stargazers
-[![Stargazers repo roster for @sujalgoel/discord-levelling-bot](https://reporoster.com/stars/sujalgoel/discord-levelling-bot)](https://github.com/sujalgoel/discord-levelling-bot/stargazers)
-### 🍴 Forkers
-[![Forkers repo roster for @sujalgoel/discord-levelling-bot](https://reporoster.com/forks/sujalgoel/discord-levelling-bot)](https://github.com/sujalgoel/discord-levelling-bot/network/members)
